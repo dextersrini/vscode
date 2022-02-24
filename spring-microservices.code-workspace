@@ -1,21 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "products"
-		},
-		{
-			"name": "discovery-server",
-			"path": "discovery-server"
-		},
-		{
-			"name": "department",
-			"path": "department"
-		},
-		{
-			"name": "apigateway",
-			"path": "apigateway"
-		},
-		{
 			"name": "vscode",
 			"path": "."
 		}
